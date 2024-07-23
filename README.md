@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**mgklee/mgklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/). I'm interested in:
 
-Here are some ideas to get you started:
+- **Mathematics**
+  - (Numerical) Analysis
+  - Probability Theory
+- **Computer Science**
+  - Artificial Intelligence
+  - Machine Learning
+  - Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please visit my [website](https://mgklee.tistory.com/) to learn more about me.
