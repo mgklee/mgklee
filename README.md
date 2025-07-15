@@ -2,12 +2,8 @@
 
 I'm an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/). I'm interested in:
 
-- **Mathematics**
-  - (Numerical) Analysis
-  - Probability Theory
-- **Computer Science**
-  - Artificial Intelligence
-  - Machine Learning
-  - Problem Solving
+- **Mathematical Foundations and Theoretical Analyses of Machine Learning**
+  - Optimization
+  - Deep Learning Theory
 
-Please visit my [website](https://mgklee.tistory.com/) to learn more about me.
+Please visit my [LinkedIn profile](https://www.linkedin.com/in/mgk-lee/) or [blog](https://mgklee.tistory.com/) (in Korean) to learn more about me.
